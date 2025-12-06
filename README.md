@@ -60,13 +60,6 @@ Co-developed a smart security system capable of detecting weapons and smoke in r
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryankumarx&show_icons=true&theme=tokyonight&hide_border=true" alt="Aryan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankumarx&layout=compact&theme=tokyonight&hide_border=true" alt="Aryan's Top Languages" />
-</p>
-
 ---
 
 ### 📫 Connect with Me
