@@ -60,8 +60,6 @@ Co-developed a smart security system capable of detecting weapons and smoke in r
 
 ---
 
----
-
 ### 📫 Connect with Me
 
 - 💼 LinkedIn: [linkedin.com/in/aryankumarx](https://www.linkedin.com/in/aryankumarx)
