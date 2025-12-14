@@ -1,24 +1,24 @@
 # Hi there, I'm Aryan Kumar!
 
-### 🛡️ Aspiring Application Security Engineer & Backend Developer
+###  Aspiring Application Security Engineer & Backend Developer
 *Building secure architectures and breaking vulnerable ones.*
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I am a **B.Tech Information Technology** undergraduate (Class of 2027) based in  **India**.
 
 My focus lies at the intersection of **Backend Development** and **Cybersecurity**. Unlike traditional developers, I build with security in mind, and unlike traditional pentesters, I understand the code I'm breaking. My goal is to bridge the gap between DevOps and Security to become a proficient **AppSec Engineer** or **DevSecOps Engineer**.
 
-- 🔭 **Currently working on:** Hardening a [Vulnerable-to-Secure Node.js Application](https://github.com/aryankumarx).
-- 🎓 **Certification:** Google Cybersecurity Professional.
-- 🌱 **Currently learning:** Computer Networks, Network Security, and CTF strategies.
-- 🎨 **Side Quest:** I was a Graphic Designer for my college's ELC Club!
+-  **Currently working on:** Hardening a [Vulnerable-to-Secure Node.js Application](https://github.com/aryankumarx).
+-  **Certification:** Google Cybersecurity Professional.
+-  **Currently learning:** Computer Networks, Network Security, and CTF strategies.
+-  **Side Quest:** I was a Graphic Designer for my college's ELC Club!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages**
 <p>
@@ -45,23 +45,23 @@ My focus lies at the intersection of **Backend Development** and **Cybersecurity
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-#### 🔒 Vulnerable-to-Secure-App (Active Dev)
+####  Vulnerable-to-Secure-App (Active Dev)
 *Node.js | Express | OWASP Top 10*
 A hands-on approach to Application Security. I built a vulnerable application to demonstrate real-world exploits and then engineered the remediation.
 *   **Fixes:** Remediated SQL Injection via parameterized queries and patched XSS vulnerabilities using input validation.
 *   **Hardening:** Implemented secure session management protocols.
 
-#### 👁️ AetherEye - Smart IoT Surveillance
+####  AetherEye - Smart IoT Surveillance
 *Python | C++ | YOLOv8 | ESP32*
 Co-developed a smart security system capable of detecting weapons and smoke in real-time.
 *   **Tech:** Trained a custom YOLOv8 model (95% accuracy) and programmed ESP32 microcontrollers for instant Firebase alerts.
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
-- 💼 LinkedIn: [linkedin.com/in/aryankumarx](https://www.linkedin.com/in/aryankumarx)
-- 🧑‍💻 GitHub: [github.com/aryankumarx](https://github.com/aryankumarx)
-- 📧 Email: aryanvoid505@gmail.com
+-  LinkedIn: [linkedin.com/in/aryankumarx](https://www.linkedin.com/in/aryankumarx)
+-  GitHub: [github.com/aryankumarx](https://github.com/aryankumarx)
+-  Email: aryanvoid505@gmail.com
