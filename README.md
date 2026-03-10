@@ -53,6 +53,34 @@ A hands-on approach to Application Security. I built a vulnerable application to
 *   **Fixes:** Remediated SQL Injection via parameterized queries and patched XSS vulnerabilities using input validation.
 *   **Hardening:** Implemented secure session management protocols.
 
+#### 🤖 [GitFixAI](https://github.com/AryanSingh64/GItFIxAI) - Core Collaborator
+[![Live Demo](https://img.shields.io/badge/Live_Demo-gitfixai.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://gitfixai.vercel.app)
+
+> **Autonomous code healing powered by AI.** Scan. Fix. Test. Ship.
+
+An AI-powered code analysis agent that detects issues across Python, JavaScript, TypeScript, and Go codebases. Uses AI to fix bugs, runs tests, and creates Pull Requests automatically — all from a single click.
+
+**My Contributions:**
+- 🔧 Backend development with FastAPI & WebSocket
+- 🤖 AI-powered bug detection & automated fixing engine
+- 🧪 Test automation pipeline & CI/CD integration
+
+**Tech Stack:** Python, FastAPI, React, OpenAI, WebSocket, Supabase, GitHub Actions
+
+---
+
+Autonomous code healing powered by AI. Scan. Fix. Test. Ship.
+
+An AI-powered code analysis agent that detects issues across Python, JavaScript, TypeScript, and Go codebases. Uses AI to fix bugs, runs tests, and creates Pull Requests automatically — all from a single click.
+My Contributions:
+
+🔧 Backend development with FastAPI & WebSocket
+🎨 Frontend components with React & Framer Motion
+🤖 AI-powered bug detection & automated fixing engine
+🧪 Test automation pipeline & CI/CD integration
+
+
+Tech Stack: Python, FastAPI, React, OpenAI, WebSocket, Supabase, GitHub Actions
 ####  AetherEye - Smart IoT Surveillance
 *Python | C++ | YOLOv8 | ESP32*
 Co-developed a smart security system capable of detecting weapons and smoke in real-time.
