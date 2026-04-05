@@ -1,4 +1,4 @@
-# Hi there, I'm Aryan Kumar!
+# Hi there, I'm Aryan!
 
 ###  Aspiring Application Security Engineer & Backend Developer
 *Building secure architectures and breaking vulnerable ones.*
