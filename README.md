@@ -62,9 +62,9 @@ A hands-on approach to Application Security. I built a vulnerable application to
 An AI-powered code analysis agent that detects issues across Python, JavaScript, TypeScript, and Go codebases. Uses AI to fix bugs, runs tests, and creates Pull Requests automatically — all from a single click.
 
 **My Contributions:**
-- 🔧 Backend development with FastAPI & WebSocket
-- 🤖 AI-powered bug detection & automated fixing engine
-- 🧪 Test automation pipeline & CI/CD integration
+-  Backend development with FastAPI & WebSocket
+-  AI-powered bug detection & automated fixing engine
+-  Test automation pipeline & CI/CD integration
 
 **Tech Stack:** Python, FastAPI, React, OpenAI, WebSocket, Supabase, GitHub Actions
 
