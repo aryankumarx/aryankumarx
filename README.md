@@ -24,21 +24,19 @@ My focus lies at the intersection of **Backend Development** and **Cybersecurity
 ## Tech Stack & Tools
 
 ### Languages & Frameworks
-[![Languages & Frameworks](https://skillicons.dev/icons?i=js,nodejs,express,python,c,cpp,html,css&theme=dark&perline=8)](https://skillicons.dev)
+[![JS](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org) [![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com) [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org) [![C](https://skillicons.dev/icons?i=c&theme=dark)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org) [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=3)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com) [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com) [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org)
 
 ### Tools, Platforms & OS
-[![Tools & OS](https://skillicons.dev/icons?i=npm,git,github,docker,postman,vscode,linux,windows,kali&theme=dark&perline=9)](https://skillicons.dev)
+[![npm](https://skillicons.dev/icons?i=npm&theme=dark)](https://www.npmjs.com) [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com) [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com) [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com) [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com) [![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com) [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org) [![Windows](https://skillicons.dev/icons?i=windows&theme=dark)](https://www.microsoft.com/windows) [![Kali](https://skillicons.dev/icons?i=kali&theme=dark)](https://www.kali.org)
 
 ### Security
-
 <div style="display: flex; align-items: center; margin-left: -10px;">
   <img src="https://www.readmecodegen.com/api/social-icon?name=burpsuite&size=46&showText=true" alt="Burp Suite" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=wireshark&size=46&showText=true" alt="Wireshark" />
 </div>
-
 ---
 
 ###  Featured Projects
