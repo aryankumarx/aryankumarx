@@ -24,111 +24,19 @@ My focus lies at the intersection of **Backend Development** and **Cybersecurity
 ## Tech Stack & Tools
 
 ### Languages & Frameworks
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" height="44" alt="JavaScript" />
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="44" height="44" alt="Node.js" />
-  </a>
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="44" height="44" alt="Express" />
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" height="44" alt="Python" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c&theme=dark" width="44" height="44" alt="C" />
-  </a>
-
-  <a href="https://isocpp.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44" height="44" alt="C++" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" height="44" alt="HTML" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" height="44" alt="CSS" />
-  </a>
-  
-</div>
+[![Languages & Frameworks](https://skillicons.dev/icons?i=js,nodejs,express,python,c,cpp,html,css&theme=dark&perline=8)](https://skillicons.dev)
 
 ### Databases
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-  
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="44" height="44" alt="MongoDB" />
-  </a>
-
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="44" height="44" alt="MySQL" />
-  </a>
-
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="44" height="44" alt="PostgreSQL" />
-  </a>
-  
-</div>
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=3)](https://skillicons.dev)
 
 ### Tools, Platforms & OS
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-  
-  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=npm&theme=dark" width="44" height="44" alt="npm" />
-  </a>
-
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" height="44" alt="Git" />
-  </a>
-
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" height="44" alt="GitHub" />
-  </a>
-
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="44" height="44" alt="Docker" />
-  </a>
-
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="44" height="44" alt="Postman" />
-  </a>
-
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44" height="44" alt="VS Code" />
-  </a>
-
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" height="44" alt="Linux" />
-  </a>
-
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="44" height="44" alt="Windows" />
-  </a>
-
-  <a href="https://www.kali.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="44" height="44" alt="Kali Linux" />
-  </a>
-  
-</div>
+[![Tools & OS](https://skillicons.dev/icons?i=npm,git,github,docker,postman,vscode,linux,windows,kali&theme=dark&perline=9)](https://skillicons.dev)
 
 ### Security
-<div style="display: flex; align-items: center; gap: 10px; margin-left: -18px;">
-  
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=burpsuite&size=46&showText=true" alt="Burp Suite" />
-  </a>
 
-  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=wireshark&size=46&showText=true" alt="Wireshark" />
-  </a>
-  
+<div style="display: flex; align-items: center; margin-left: -10px;">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=burpsuite&size=46&showText=true" alt="Burp Suite" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=wireshark&size=46&showText=true" alt="Wireshark" />
 </div>
 
 ---
