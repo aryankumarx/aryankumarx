@@ -37,6 +37,7 @@ My focus lies at the intersection of **Backend Development** and **Cybersecurity
   <img src="https://www.readmecodegen.com/api/social-icon?name=burpsuite&size=46&showText=true" alt="Burp Suite" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=wireshark&size=46&showText=true" alt="Wireshark" />
 </div>
+
 ---
 
 ###  Featured Projects
