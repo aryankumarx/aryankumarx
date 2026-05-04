@@ -33,10 +33,7 @@ My focus lies at the intersection of **Backend Development** and **Cybersecurity
 [![npm](https://skillicons.dev/icons?i=npm&theme=dark)](https://www.npmjs.com) [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com) [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com) [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com) [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com) [![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com) [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org) [![Windows](https://skillicons.dev/icons?i=windows&theme=dark)](https://www.microsoft.com/windows) [![Kali](https://skillicons.dev/icons?i=kali&theme=dark)](https://www.kali.org)
 
 ### Security
-<div style="display: flex; align-items: center; margin-left: -10px;">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=burpsuite&size=46&showText=true" alt="Burp Suite" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=wireshark&size=46&showText=true" alt="Wireshark" />
-</div>
+[![Burp Suite](https://www.readmecodegen.com/api/social-icon?name=burpsuite&size=44&showText=false)](https://portswigger.net/burp) [![Wireshark](https://www.readmecodegen.com/api/social-icon?name=wireshark&size=44&showText=false)](https://www.wireshark.org)
 
 ---
 
