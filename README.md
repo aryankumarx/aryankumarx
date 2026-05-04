@@ -18,30 +18,24 @@ My focus lies at the intersection of **Backend Development** and **Cybersecurity
 
 ---
 
-###  Tech Stack & Tools
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+## Tech Stack & Tools
 
-**Security & DevOps Tools**
-<p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+### Languages & Frameworks
+[![Languages & Frameworks](https://skillicons.dev/icons?i=js,nodejs,express,python,c,cpp,html,css&theme=dark&perline=8)](https://skillicons.dev)
 
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+### Databases
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=3)](https://skillicons.dev)
+
+### Tools, Platforms & OS
+[![Tools & OS](https://skillicons.dev/icons?i=npm,git,github,docker,postman,vscode,linux,windows,kali&theme=dark&perline=9)](https://skillicons.dev)
+
+### Security
+
+<div style="display: flex; align-items: center; gap: 0px;">
+ <img src="https://www.readmecodegen.com/api/social-icon?name=burpsuite&size=46&showText=true" alt="Burp Suite" />
+ <img src="https://www.readmecodegen.com/api/social-icon?name=wireshark&size=46&showText=true" alt="Wireshark" />
+</div>
 
 ---
 
