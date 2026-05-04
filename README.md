@@ -32,7 +32,7 @@ My focus lies at the intersection of **Backend Development** and **Cybersecurity
 
 ### Security
 
-<div style="display: flex; align-items: center; gap: 10px, margin-left: -4px;">
+<div style="display: flex; align-items: center; margin-left: -10px;">
  <img src="https://www.readmecodegen.com/api/social-icon?name=burpsuite&size=46&showText=true" alt="Burp Suite" />
  <img src="https://www.readmecodegen.com/api/social-icon?name=wireshark&size=46&showText=true" alt="Wireshark" />
 </div>
