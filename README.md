@@ -1,25 +1,22 @@
-# Hi there, I'm Aryan!
+# Aryan Kumar
 
-###  Aspiring Application Security Engineer & Backend Developer
-*Building secure architectures and breaking vulnerable ones.*
+> *Cybersecurity Student · Aspiring Application Security Engineer*
 
----
+I build secure applications, analyze vulnerable systems, and work at the intersection of backend engineering and cybersecurity.
+## About
 
-###  About Me
-
-I am a **B.Tech Information Technology** undergraduate (Class of 2027) based in  **India**.
-
-My focus lies at the intersection of **Backend Development** and **Cybersecurity**. Unlike traditional developers, I build with security in mind, and unlike traditional pentesters, I understand the code I'm breaking. My goal is to bridge the gap between DevOps and Security to become a proficient **AppSec Engineer** or **DevSecOps Engineer**.
-
--  **Currently working on:** Hardening a [Vulnerable-to-Secure Node.js Application](https://github.com/aryankumarx).
--  **Certification:** Google Cybersecurity Professional.
--  **Currently learning:** Computer Networks, Network Security, and CTF strategies.
--  **Side Quest:** I was a Graphic Designer for my college's ELC Club!
-
----
+- Focused on **Application Security**, web security, secure software design, and DevSecOps
+- Studying computer networks, network security, and offensive security fundamentals
+- Use backend development to build, test, and harden security-focused applications
+- Certified — **Google Cybersecurity Professional Certificate**
 
 
 
+## Current Focus
+
+- Hardening vulnerable web applications using secure coding practices
+- Writing security lab writeups and developer-focused vulnerability analyses
+- Building AI-assisted tools with strong backend and security fundamentals
 
 ## Tech Stack & Tools
 
@@ -32,44 +29,32 @@ My focus lies at the intersection of **Backend Development** and **Cybersecurity
 ### Tools, Platforms & OS
 [![npm](https://skillicons.dev/icons?i=npm&theme=dark)](https://www.npmjs.com) [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com) [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com) [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com) [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com) [![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com) [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org) [![Windows](https://skillicons.dev/icons?i=windows&theme=dark)](https://www.microsoft.com/windows) [![Kali](https://skillicons.dev/icons?i=kali&theme=dark)](https://www.kali.org)
 
+
+
 ### Security
 [![Burp Suite](https://www.readmecodegen.com/api/social-icon?name=burpsuite&size=44&showText=false)](https://portswigger.net/burp) [![Wireshark](https://www.readmecodegen.com/api/social-icon?name=wireshark&size=44&showText=false)](https://www.wireshark.org)
 
 ---
 
-###  Featured Projects
+## Projects
 
-####  Vulnerable-to-Secure-App (Active Dev)
-*Node.js | Express | OWASP Top 10*
-A hands-on approach to Application Security. I built a vulnerable application to demonstrate real-world exploits and then engineered the remediation.
-*   **Fixes:** Remediated SQL Injection via parameterized queries and patched XSS vulnerabilities using input validation.
-*   **Hardening:** Implemented secure session management protocols.
+### [Replyfy](https://github.com/aryankumarx/replyfy) — AI Reply Assistant for Android
+`React Native` `Kotlin` `Node.js` `Express` `Gemini 2.5 Flash-Lite`
+> Floating AI reply assistant for WhatsApp, Telegram & SMS — contextual responses without app switching. Security hardened with rate limiting, secret isolation, and sensitive-data filtering.
 
----
-#### [GitFixAI](https://github.com/AryanSingh64/GItFIxAI) - Core Collaborator
-[![Live Demo](https://img.shields.io/badge/Live_Demo-gitfixai.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://gitfixai.vercel.app)
+### Vulnerable-to-Secure-App
+`Node.js` `Express` `OWASP Top 10`
+> Built intentionally vulnerable functionality, exploited it, then remediated it. SQL Injection, XSS, unsafe sessions — broken and fixed end to end.
 
-> **Autonomous code healing powered by AI.** Scan. Fix. Test. Ship.
+### [GitFixAI](https://github.com/AryanSingh64/GItFIxAI) — Core Collaborator
+`Python` `FastAPI` `React` `WebSocket` `Supabase`
+> Autonomous AI code-healing platform. My work: OAuth + GitHub integration, rate limiting, and production security headers (XSS, clickjacking, HSTS).
 
-An AI-powered code analysis agent that detects issues across Python, JavaScript, TypeScript, and Go codebases. Uses AI to fix bugs, runs tests, and creates Pull Requests automatically — all from a single click.
-
-**My Contributions:**
--  Backend development with FastAPI & WebSocket
--  AI-powered bug detection & automated fixing engine
--  Test automation pipeline & CI/CD integration
-
-**Tech Stack:** Python, FastAPI, React, OpenAI, WebSocket, Supabase, GitHub Actions
-
----
-####  AetherEye - Smart IoT Surveillance
-*Python | C++ | YOLOv8 | ESP32*
-Co-developed a smart security system capable of detecting weapons and smoke in real-time.
-*   **Tech:** Trained a custom YOLOv8 model (95% accuracy) and programmed ESP32 microcontrollers for instant Firebase alerts.
+### [ThreadLine](https://github.com/AryanSingh64/ThreadLine) — Hackathon · Collaborator
+`Next.js` `D3.js` `Playwright` `Whoiser`
+> Privacy-focused OSINT platform. My work: domain recon (WHOIS, DNS, SSL), breach lookup, and Playwright-based recon workflows.
 
 ---
 
-###  Connect with Me
-
--  LinkedIn: [linkedin.com/in/aryankumarx](https://www.linkedin.com/in/aryankumarx)
--  GitHub: [github.com/aryankumarx](https://github.com/aryankumarx)
--  Email: aryanvoid505@gmail.com
+## Connect with Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/aryankumarx) [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/aryankumarx) [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:aryanvoid505@gmail.com)
